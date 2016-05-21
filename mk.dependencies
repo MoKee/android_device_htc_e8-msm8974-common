@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_kernel_htc_mecdug",
+    "target_path": "kernel/htc/mecdug"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager"
+  }
+]
